@@ -14,3 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore other unneeded files.
+# database.yml  Al final no lo agrego. no anda 3.5 exercises 3
